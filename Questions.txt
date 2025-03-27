@@ -1,0 +1,58 @@
+Here are the questions listed in text format:
+
+1. Write Selection Sort function.  
+   a. Revise your program to read input from the keyboard.  
+   b. Revise your program to read input from a file. The name of the file should be taken as an argument from the command line.  
+
+2. Implement Sorting Algorithms: Develop implementations for the following sorting algorithms: Selection Sort, Insertion Sort, and Merge Sort (and/or Quick Sort).  
+
+3. Measure Execution Time: Record the execution time of each sorting algorithm for varying input sizes.  
+
+4. Compare Experimental and Theoretical Performance: Analyze the experimentally obtained execution times and compare them with the theoretical time complexity estimates for each algorithm.  
+
+5. Determine Input Size Limits: Calculate the theoretical maximum input size each algorithm can handle within a 5-minute execution time limit.  
+
+6. Identify Complexity Expressions: Derive the time complexity expressions for each algorithm based on the experimental data and compare them with their theoretical counterparts.  
+
+7. Find the specifications of your laptop/PC. How would you select a new laptop or PC if you were buying one?  
+
+8. Implement insert and remove member functions in myArray.  
+
+9. Implement a class for Polynomials.  
+
+10. Implement a class for Matrices.  
+
+11. Complexity questions (3_lec.pdf).  
+
+12. Average case analysis for quicksort: does the proof go through for the guess T(n) = Cn?  
+
+13. Implement prepend for LinkedList.  
+
+14. Implement remaining functions of sequence ADT for LinkedList.  
+
+15. Write C++ programs for:  
+    a. Stack ADT using ArrayVector.  
+    b. Stack ADT using LinkedList.  
+    c. Queue ADT using LinkedList.  
+
+16. Is it possible to implement a Queue using Stacks?  
+
+17. Implement Matrix class using:  
+    a. 1-D array.  
+    b. ArrayVector of pairs for sparse matrix.  
+
+18. Implement tree traversal methods for Binary Tree class.  
+
+19. Implement a constructor for Binary Tree class that takes pre-order and in-order sequences as input.  
+
+20. Solve exercises on Heap (6_lec.pdf).  
+
+21. Implement Heap data structure with non-recursive maxHeapify.  
+
+22. Implement priority queue using Heap.  
+
+23. Implement heap sort using Heap data structure.  
+
+24. Why is the test `y.parent != z` required in BST delete operation?  
+
+25. Implement Binary Search Tree data structure.
